@@ -1,0 +1,11 @@
+{
+  "name": "node-app",
+  "version": "0.0.0",
+  "description": "nodejs and angular show queue contents app",
+  "main": "server.js",
+  "author": "Mehdi Zarrin",
+  "dependencies": {
+    "express": "~4.6.1",
+    "redis": "~0.12.1"
+  }
+}

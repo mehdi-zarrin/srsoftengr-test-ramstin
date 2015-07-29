@@ -1,0 +1,5 @@
+.vagrant
+/token
+git-export-dir/
+composer.phar
+.bowerrc
